@@ -1,0 +1,24 @@
+.content-box{
+  align-content: center;
+  min-width: 50%;
+  
+}
+.paragraph-box{
+  margin-bottom: 4rem;
+}
+
+
+.cardbox{
+  width: auto;
+  border: 1rem solid rgba($color-primary-medium,.0);
+  border-radius: 10px;
+  box-shadow: 1rem .5rem 1rem rgba($color: #000000, $alpha: .2);
+  // box-shadow: 1rem 1rem 1rem 1rem rgba($color: #000000, $alpha: .2), -1rem -1rem 1rem 1rem rgba($color: #000000, $alpha: .1);
+  
+}
+
+.iconstyle{
+  margin-top: 4rem;
+  font-size: 6rem;
+  color: $color-primary-medium;
+}
